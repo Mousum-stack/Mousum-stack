@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousum-stack&label=Profile%20views&color=0e75b6&style=flat" alt="mousum-stack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mousum-stack" alt="mousum-stack" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, DSA etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mousum-stack](https://github.com/Mousum-stack)
