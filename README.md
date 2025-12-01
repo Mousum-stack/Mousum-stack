@@ -56,16 +56,15 @@
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/mousum raj gogoi" target="blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="32"/></a>
-<a href="https://instagram.com/mousum_gogoi" target="blank"><img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="32"/></a>
-<a href="mailto:mousumgogoi392@gmail.com"><img src="https://img.icons8.com/ios-glyphs/50/mail.png" width="32"/></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mousum-stack&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousum-stack&layout=compact&theme=tokyonight" height="150"/>
+<a href="https://www.linkedin.com/in/mousum-raj-gogoi" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="35"/>
+</a>
+<a href="https://instagram.com/mousum_gogoi" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="35"/>
+</a>
+<a href="mailto:mousumgogoi392@gmail.com">
+  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/new-post.png" width="35"/>
+</a>
 </p>
 
 ---
