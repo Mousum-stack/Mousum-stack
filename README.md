@@ -1,17 +1,15 @@
-# <div align="center">👋 Hi, I'm Mousum Raj Gogoi</div>
+# 👋 Hi, I'm Mousum Raj Gogoi
 
 <div align="center">
 
-<img src="assets/profile.jpg" width="180" alt="Mousum Raj Gogoi">
-
-<h3>AI/ML Engineer | Generative AI | Agentic AI | Python Developer</h3>
+<h3>Full Stack Developer | AI/ML Engineer | Generative AI | Agentic AI</h3>
 
 <p>
-MCA Graduate | Python Developer | AI Systems Builder
+MCA Graduate from Rajasthan Technical University (RTU)
 </p>
 
 <p>
-Building intelligent applications with Python, LLMs, RAG and Multi-Agent Systems.
+Building modern applications and exploring intelligent solutions with Python, LLMs, RAG and Multi-Agent Systems.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Mousum-stack&style=flat-square&color=blue" alt="Profile Views">
@@ -22,17 +20,21 @@ Building intelligent applications with Python, LLMs, RAG and Multi-Agent Systems
 
 ### 🙋‍♂️ About Me
 
-I'm an MCA graduate passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-I enjoy transforming ideas into practical solutions by combining Python, Large Language Models, RAG architectures, and AI agent workflows.
+I'm **Mousum Raj Gogoi**, an MCA graduate from **Rajasthan Technical University (RTU)**, passionate about Full Stack Development, Artificial Intelligence, and Generative AI.
 
-Currently exploring Agentic AI, LangGraph, Multi-Agent Systems, and Model Context Protocol (MCP) while developing real-world AI applications.
+I enjoy transforming ideas into practical solutions by building web applications, developing backend systems, and exploring AI-powered technologies.
 
-- 🤖 Interested in Generative AI and Agentic AI.
-- 🧠 Exploring LLMs, RAG, LangChain, and LangGraph.
-- 💻 Building backend applications using Python and FastAPI.
-- 📊 Background in Data Science, Machine Learning, and Data Analysis.
-- 🚀 Focused on building practical AI-powered solutions.
+Currently exploring Agentic AI, LangGraph, Multi-Agent Systems, and Model Context Protocol (MCP) while strengthening my software engineering skills.
+
+- 💻 Interested in Full Stack Development and Backend Engineering.
+- 🤖 Exploring Generative AI and Agentic AI.
+- 🧠 Learning LLMs, RAG, LangChain, and LangGraph.
+- 🚀 Building practical applications using Python and FastAPI.
+- 📊 Background in Data Science and Machine Learning.
+
+<br clear="right"/>
 
 ---
 
@@ -89,6 +91,7 @@ Developed a Python-based web scraping project to collect and structure medicine 
 
 ### 🚀 Currently Learning & Building
 
+- Full Stack Web Development
 - Generative AI and Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - LangChain and LangGraph
@@ -105,13 +108,14 @@ Developed a Python-based web scraping project to collect and structure medicine 
 | Category | Technologies |
 |---|---|
 | **Programming Languages** | Python, SQL, JavaScript (Basics) |
+| **Frontend Development** | HTML, CSS, Bootstrap, JavaScript (Basics) |
+| **Backend Development** | FastAPI, Flask, Django, Node.js |
 | **Generative AI** | LLMs, RAG, Prompt Engineering, LangChain |
 | **Agentic AI** | LangGraph, Multi-Agent Systems, Tool Calling, MCP (Learning) |
 | **Machine Learning** | Regression, Classification, Clustering |
 | **Deep Learning** | CNN, RNN, TensorFlow |
 | **Data Science** | Pandas, NumPy, EDA, Feature Engineering |
 | **Vector Databases** | ChromaDB, FAISS |
-| **Backend Development** | FastAPI, Flask, Streamlit |
 | **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
 | **Web Scraping** | Selenium, BeautifulSoup, Requests |
 | **Databases** | MySQL, MongoDB |
@@ -145,11 +149,12 @@ Developed a Python-based web scraping project to collect and structure medicine 
 
 ### 🎯 Current Goals
 
-- Become a skilled AI/ML Engineer specializing in Generative AI and Agentic AI.
+- Become a skilled Full Stack Developer with AI engineering expertise.
 - Build practical and reliable AI-powered applications.
 - Develop expertise in multi-agent architectures and LLM-based systems.
+- Improve backend development and software engineering skills.
 - Contribute to open-source projects.
-- Continuously improve software engineering and problem-solving skills.
+- Continuously improve problem-solving and DSA skills.
 
 ---
 
