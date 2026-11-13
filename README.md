@@ -1,24 +1,28 @@
-<h1 align="center">👋 Hi, I'm Mousum Raj Gogoi</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast | Python Developer</h3>
+# 👋 Hi, I'm Mousum Raj Gogoi
+
+<h3 align="center">AI/ML Engineer | Generative AI | Agentic AI | Python Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-🙋‍♂️ Passionate about extracting insights from data, building predictive ML models, and creating automation tools using Python.  
-📊 I believe data tells stories — I turn those stories into decisions.
+🙋‍♂️ MCA Graduate passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Generative AI.  
+🤖 Exploring LLMs, RAG architectures, AI Agents, and Multi-Agent Systems to develop practical AI-powered solutions.
 
 ---
 
-### 🚀 What I'm Currently Learning
-- Machine Learning & Deep Learning
-- Data Visualization (Matplotlib, Seaborn, PowerBI)
-- NLP & Model Deployment (FastAPI, Streamlit)
+### 🚀 What I'm Currently Working On
+- Building Multi-Agent AI Systems using **LangGraph**
+- Exploring **Generative AI, LLMs, RAG, and LangChain**
+- Learning **MCP (Model Context Protocol)** and AI Agent Orchestration
+- Developing REST APIs using **Python & FastAPI**
+- Strengthening Data Structures, Algorithms, SQL, and Python fundamentals
 
 ---
 
 ### 💼 Experience
-- **Data Science Internship (2 Months)**  
-  - Worked on Python-based data preprocessing, visualization, and insights extraction  
-  - Built scripts for **Web Scraping**, Automation & Excel Report Generation  
+- **Data Science Internship (2 Months)**
+  - Worked on medical data preprocessing, cleaning, visualization, and insights extraction
+  - Developed Python scripts for Web Scraping, Automation, and Excel Report Generation
+  - Explored Machine Learning and Deep Learning applications for healthcare data
 
 ---
 
@@ -26,35 +30,51 @@
 
 | Category | Tools / Technologies |
 |--------|----------------------|
-| **Programming** | Python, SQL, R (Basics) |
-| **ML / AI** | Linear/Logistic Regression, Classification Models, Clustering |
-| **Data Analysis** | Pandas, NumPy, EDA, Feature Engineering |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Web Scraping** | Selenium, BeautifulSoup |
+| **Programming** | Python, SQL, JavaScript (Basics) |
+| **Generative AI** | LLMs, RAG, Prompt Engineering, LangChain |
+| **Agentic AI** | LangGraph, Multi-Agent Systems, Tool Calling, MCP (Learning) |
+| **Machine Learning** | Regression, Classification, Clustering, Deep Learning |
+| **Data Science** | Pandas, NumPy, EDA, Feature Engineering |
+| **Vector Databases** | ChromaDB, FAISS |
+| **Backend Development** | FastAPI, Flask, Streamlit |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
+| **Web Scraping** | Selenium, BeautifulSoup, Requests |
 | **Databases** | MySQL, MongoDB |
-| **Other Tools** | Git, Jupyter Notebook, VS Code |
+| **Developer Tools** | Git, GitHub, Jupyter Notebook, VS Code |
 
 ---
 
 ### 📂 Featured Projects
 
-🔹 **Customer Churn Prediction (Classification)**  
-→ Built ML model using Logistic Regression to predict telecom churn  
+🔹 **Multi-Agent Financial AI**
+→ Developing an AI-powered financial analysis system using LangGraph, agent orchestration, and modular workflows.
 
-🔹 **Stock Price Forecasting**  
-→ Time Series model using ARIMA + Moving Averages  
+🔹 **FastAPI Patient Management System**
+→ Building REST APIs with Python, FastAPI, JSON data handling, and CRUD operations.
 
-🔹 **1mg Medicine Scraper (Live Data Project)**  
-→ Extracted 10,000+ medicine details, images, structured dataset  
+🔹 **Medical Data Analysis & Prediction**
+→ Worked on healthcare data preprocessing, analysis, visualization, and predictive modelling.
 
-🔹 **Youth Unemployment EDA + Visualization**  
-→ Trend patterns, region comparison, multi-visual dashboard  
+🔹 **1mg Medicine Web Scraper**
+→ Extracted 10,000+ medicine details and structured information using Python web scraping techniques.
 
-📎 More Projects → **https://github.com/Mousum-stack**
+🔹 **Heart Disease & Blood Cancer Prediction**
+→ Explored Machine Learning and CNN-based approaches for healthcare prediction applications.
+
+📎 More Projects → **[GitHub Repositories](https://github.com/Mousum-stack)**
+
+---
+
+### 🎯 Current Goals
+- Become a strong AI/ML Engineer specializing in Generative AI and Agentic AI.
+- Build practical, production-oriented AI applications.
+- Contribute to open-source projects.
+- Improve software engineering and problem-solving skills.
 
 ---
 
 ### 📫 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mousum-raj-gogoi" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="35"/>
@@ -70,4 +90,4 @@
 ---
 
 ### 🧠 Quote I Believe In
-> **"Data is the new oil — but insight is the real fuel."**
+> **"The future belongs to those who build intelligent solutions, not just use intelligent tools."**
